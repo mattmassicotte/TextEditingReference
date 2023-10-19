@@ -5,6 +5,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Views
 
+- [CodeEditorView](https://github.com/mchakravarty/CodeEditorView)
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView)
 - [Proton](https://github.com/rajdeep/proton)
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit)
