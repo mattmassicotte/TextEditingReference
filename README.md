@@ -34,6 +34,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 ## Syntax Highlighting
 
 - [Highlightr](https://github.com/raspu/Highlightr)
+- [Splash](https://github.com/JohnSundell/Splash)
 
 ## Search
 
