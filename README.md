@@ -32,6 +32,9 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## LSP/LSIF/DAP
 
+- [langserver-swift](https://github.com/RLovelett/langserver-swift)
+- [SwiftLSP](https://github.com/codeface-io/SwiftLSP)
+
 ## Benchmarking
 
 ## Text Storage
