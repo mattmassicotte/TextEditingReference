@@ -5,15 +5,27 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Views
 
+- (CodeEditTextView)[https://github.com/CodeEditApp/CodeEditTextView]
+- (Proton)[https://github.com/rajdeep/proton]
+- (RichTextKit)[https://github.com/danielsaidi/RichTextKit]
+- (Runestone)[https://github.com/simonbs/Runestone]
+- (STTextView)[https://github.com/krzyzanowskim/STTextView]
+
 ## Editing UI
 
 ## Editing Behavior
 
 ## Parsing
 
+- (TextMarkupKit)[https://github.com/bdewey/TextMarkupKit]
+
 ## Text Manipulation
 
 ## Syntax Highlighting
+
+## Search
+
+- (FindFaster)[https://github.com/Finnvoor/FindFaster]
 
 ## LSP/LSIF/DAP
 
