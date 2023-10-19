@@ -24,6 +24,8 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Syntax Highlighting
 
+- [Highlightr](https://github.com/raspu/Highlightr)
+
 ## Search
 
 - [FindFaster](https://github.com/Finnvoor/FindFaster)
