@@ -42,4 +42,5 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 ## LSP/LSIF/DAP
 
 - [langserver-swift](https://github.com/RLovelett/langserver-swift)
+- [SwiftDAP](https://github.com/noellee/SwiftDAP)
 - [SwiftLSP](https://github.com/codeface-io/SwiftLSP)
