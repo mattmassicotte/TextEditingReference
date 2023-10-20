@@ -14,6 +14,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit)
 - [Runestone](https://github.com/simonbs/Runestone)
 - [STTextView](https://github.com/krzyzanowskim/STTextView)
+- [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor)
 
 ## TextKit Utilities
 
