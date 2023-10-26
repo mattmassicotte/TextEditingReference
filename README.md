@@ -8,6 +8,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView)
 - [CodeEditor](https://github.com/ZeeZide/CodeEditor)
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView)
+- [MetaTextKit](https://github.com/TwidereProject/MetaTextKit)
 - [NTYSmartTextView](https://github.com/naoty/NTYSmartTextView)
 - [Proton](https://github.com/rajdeep/proton)
 - [RichTextView](https://github.com/tophat/RichTextView)
@@ -15,6 +16,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [Runestone](https://github.com/simonbs/Runestone)
 - [STTextView](https://github.com/krzyzanowskim/STTextView)
 - [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor)
+- [YYText](https://github.com/ibireme/YYText)
 
 ## TextKit Utilities
 
