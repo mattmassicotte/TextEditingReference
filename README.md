@@ -8,8 +8,10 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView)
 - [CodeEditor](https://github.com/ZeeZide/CodeEditor)
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView)
+- [CYRTextView](https://github.com/illyabusigin/CYRTextView)
 - [Firefly](https://github.com/ActuallyTaylor/Firefly)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit)
+- [NLTextView](https://github.com/srijs/NLTextView)
 - [NTYSmartTextView](https://github.com/naoty/NTYSmartTextView)
 - [Proton](https://github.com/rajdeep/proton)
 - [RichTextView](https://github.com/tophat/RichTextView)
@@ -20,8 +22,10 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [Sourceful](https://github.com/twostraws/Sourceful)
 - [STTextView](https://github.com/krzyzanowskim/STTextView)
 - [SyntaxKit](https://github.com/palle-k/SyntaxKit)
+- [TextKit_LineNumbers](https://github.com/alldritt/TextKit_LineNumbers)
 - [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor)
 - [YYText](https://github.com/ibireme/YYText)
+- [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)
 
 ## TextKit Utilities
 
