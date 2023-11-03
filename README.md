@@ -10,6 +10,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView)
 - [CYRTextView](https://github.com/illyabusigin/CYRTextView)
 - [Firefly](https://github.com/ActuallyTaylor/Firefly)
+- [Lexical](https://github.com/facebook/lexical-ios)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit)
 - [NLTextView](https://github.com/srijs/NLTextView)
 - [NTYSmartTextView](https://github.com/naoty/NTYSmartTextView)
