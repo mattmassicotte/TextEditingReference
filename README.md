@@ -47,6 +47,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 ## Syntax Highlighting
 
 - [Highlightr](https://github.com/raspu/Highlightr)
+- [HighlightSwift](https://github.com/appstefan/HighlightSwift)
 - [Splash](https://github.com/JohnSundell/Splash)
 
 ## Search
