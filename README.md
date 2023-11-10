@@ -9,6 +9,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [CodeEditor](https://github.com/ZeeZide/CodeEditor)
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView)
 - [CYRTextView](https://github.com/illyabusigin/CYRTextView)
+- [Editor](https://github.com/mmackh/Editor)
 - [Firefly](https://github.com/ActuallyTaylor/Firefly)
 - [Lexical](https://github.com/facebook/lexical-ios)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit)
