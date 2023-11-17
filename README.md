@@ -5,6 +5,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Views
 
+- [AztecEditor](https://github.com/wordpress-mobile/AztecEditor-iOS)
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView)
 - [CodeEditor](https://github.com/ZeeZide/CodeEditor)
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView)
