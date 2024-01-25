@@ -48,6 +48,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 - [Flexer](https://github.com/ChimeHQ/Flexer)
 - [Gramophone](https://github.com/ChimeHQ/Gramophone)
+- [ParseKit](https://github.com/itod/parsekit)
 - ChimeHQ/[SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter)
 - viktorstrate/[SwiftTreeSitter](https://github.com/viktorstrate/swift-tree-sitter)
 - [TextMarkupKit](https://github.com/bdewey/TextMarkupKit)
