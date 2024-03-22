@@ -13,6 +13,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [Editor](https://github.com/mmackh/Editor)
 - [Firefly](https://github.com/ActuallyTaylor/Firefly)
 - [Lexical](https://github.com/facebook/lexical-ios)
+- [MarkupEditor](https://github.com/stevengharris/MarkupEditor)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit)
 - [NLTextView](https://github.com/srijs/NLTextView)
 - [NTYSmartTextView](https://github.com/naoty/NTYSmartTextView)
