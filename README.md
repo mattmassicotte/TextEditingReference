@@ -40,6 +40,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## TextKit Utilities
 
+- [Glyph](https://github.com/ChimeHQ/Glyph)
 - [Rearrange](https://github.com/ChimeHQ/Rearrange)
 - [STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus)
 - [TextViewBenchmark](https://github.com/ChimeHQ/TextViewBenchmark)
@@ -65,7 +66,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 ## Text Manipulation
 
 - [TextFormation](https://github.com/ChimeHQ/TextFormation)
-- 
+
 ## Storage
 
 - [RelativeCollections](https://github.com/ChimeHQ/RelativeCollections)
