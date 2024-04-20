@@ -78,6 +78,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [HighlightSwift](https://github.com/appstefan/HighlightSwift)
 - [Neon](https://github.com/ChimeHQ/Neon)
 - [Splash](https://github.com/JohnSundell/Splash)
+- [ThemePark](https://github.com/ChimeHQ/ThemePark)
 
 ## Search
 
