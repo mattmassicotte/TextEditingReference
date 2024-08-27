@@ -15,7 +15,6 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [Proton](https://github.com/rajdeep/proton) (iOS/visionOS, SPM)
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 - [Runestone](https://github.com/simonbs/Runestone) (iOS, SPM)
-- [SourceView](https://github.com/ChimeHQ/SourceView) (macOS, SPM)
 - [STTextView](https://github.com/krzyzanowskim/STTextView) (macOS, SPM)
 
 ### Last Update > 6 Months
@@ -26,6 +25,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [NLTextView](https://github.com/srijs/NLTextView) (macOS)
 - [NTYSmartTextView](https://github.com/naoty/NTYSmartTextView) (macOS)
 - [Sourceful](https://github.com/twostraws/Sourceful) (iOS/macOS, SPM/CocoaPods)
+- [SourceView](https://github.com/ChimeHQ/SourceView) (macOS, SPM)
 - [TextKit_LineNumbers](https://github.com/alldritt/TextKit_LineNumbers) (iOS)
 - [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) (iOS, SPM)
 - [YYText](https://github.com/ibireme/YYText) (iOS, CocoaPods)
@@ -41,6 +41,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 ## TextKit Utilities
 
 - [Glyph](https://github.com/ChimeHQ/Glyph)
+- [Ligature](https://github.com/ChimeHQ/Ligature)
 - [Rearrange](https://github.com/ChimeHQ/Rearrange)
 - [STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus)
 - [TextViewBenchmark](https://github.com/ChimeHQ/TextViewBenchmark)
