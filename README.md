@@ -5,7 +5,6 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Views
 
-- [AztecEditor](https://github.com/wordpress-mobile/AztecEditor-iOS) (iOS, CocoaPods)
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) (iOS/macOS/visionOS, SPM)
 - [CodeEditor](https://github.com/ZeeZide/CodeEditor) (iOS/macOS/visionOS, SPM/CocoaPods)
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) (macOS, SPM)
@@ -15,17 +14,18 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [Proton](https://github.com/rajdeep/proton) (iOS/visionOS, SPM)
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 - [Runestone](https://github.com/simonbs/Runestone) (iOS, SPM)
+- [SourceView](https://github.com/ChimeHQ/SourceView) (macOS, SPM)
 - [STTextView](https://github.com/krzyzanowskim/STTextView) (macOS, SPM)
 
 ### Last Update > 6 Months
 
+- [AztecEditor](https://github.com/wordpress-mobile/AztecEditor-iOS) (iOS, CocoaPods)
 - [CYRTextView](https://github.com/illyabusigin/CYRTextView) (iOS, CocoaPods)
 - [Editor](https://github.com/mmackh/Editor) (macOS/iOS)
 - [Firefly](https://github.com/ActuallyTaylor/Firefly) (iOS, SPM)
 - [NLTextView](https://github.com/srijs/NLTextView) (macOS)
 - [NTYSmartTextView](https://github.com/naoty/NTYSmartTextView) (macOS)
 - [Sourceful](https://github.com/twostraws/Sourceful) (iOS/macOS, SPM/CocoaPods)
-- [SourceView](https://github.com/ChimeHQ/SourceView) (macOS, SPM)
 - [TextKit_LineNumbers](https://github.com/alldritt/TextKit_LineNumbers) (iOS)
 - [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) (iOS, SPM)
 - [YYText](https://github.com/ibireme/YYText) (iOS, CocoaPods)
