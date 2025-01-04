@@ -12,6 +12,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [MarkupEditor](https://github.com/stevengharris/MarkupEditor) (iOS/macCatalyst, SPM)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit) (iOS, SPM)
 - [Proton](https://github.com/rajdeep/proton) (iOS/visionOS, SPM)
+- [RichEditorSwiftUI](https://github.com/canopas/rich-editor-swiftui) (macOSiOS/macOS/tvOS/watchOS/visionOS, SPM/CocoaPods)
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
 - [Runestone](https://github.com/simonbs/Runestone) (iOS, SPM)
 - [SourceView](https://github.com/ChimeHQ/SourceView) (macOS, SPM)
