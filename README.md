@@ -54,7 +54,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 - [EditorConfig](https://github.com/ChimeHQ/EditorConfig)
 - [IBeam](https://github.com/ChimeHQ/IBeam)
-- 
+
 ## Parsing
 
 - [Flexer](https://github.com/ChimeHQ/Flexer)
