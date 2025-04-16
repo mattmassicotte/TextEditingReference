@@ -52,8 +52,9 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Editing Behavior
 
-- [EditorConfig](https://github.com/ChimeHQ/EditorConfig)
-- [IBeam](https://github.com/ChimeHQ/IBeam)
+- [EditorConfig](https://github.com/ChimeHQ/EditorConfig): A Swift library for working with .editorconfig files
+- [IBeam](https://github.com/ChimeHQ/IBeam): A Swift library for multi-cursor support
+- [Borderline](https://github.com/chimeHQ/Borderline): Text line metrics and visualization
 
 ## Parsing
 
