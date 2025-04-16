@@ -61,7 +61,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 - [Gramophone](https://github.com/ChimeHQ/Gramophone)
 - [ParseKit](https://github.com/itod/parsekit)
 - [PEGKit](https://github.com/itod/pegkit)
-- ChimeHQ/[SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter)
+- tree-sitter/[SwiftTreeSitter](https://github.com/tree-sitter/swift-tree-sitter)
 - viktorstrate/[SwiftTreeSitter](https://github.com/viktorstrate/swift-tree-sitter)
 - [TextMarkupKit](https://github.com/bdewey/TextMarkupKit)
 - [tree-sitter](https://swiftpackageindex.com/tree-sitter/tree-sitter)
