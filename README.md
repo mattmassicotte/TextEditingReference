@@ -58,18 +58,18 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Parsing
 
-- [Flexer](https://github.com/ChimeHQ/Flexer)
-- [Gramophone](https://github.com/ChimeHQ/Gramophone)
-- [ParseKit](https://github.com/itod/parsekit)
-- [PEGKit](https://github.com/itod/pegkit)
-- tree-sitter/[SwiftTreeSitter](https://github.com/tree-sitter/swift-tree-sitter)
-- viktorstrate/[SwiftTreeSitter](https://github.com/viktorstrate/swift-tree-sitter)
-- [TextMarkupKit](https://github.com/bdewey/TextMarkupKit)
-- [tree-sitter](https://swiftpackageindex.com/tree-sitter/tree-sitter)
+- [Flexer](https://github.com/ChimeHQ/Flexer): Lexing library for Swift
+- [Gramophone](https://github.com/ChimeHQ/Gramophone): Swift library for working with Extended Backus–Naur Form (EBNF) notation and grammars
+- [ParseKit](https://github.com/itod/parsekit): Objective-C Tokenizer and Parser Generator. Supports Grammars.
+- [PEGKit](https://github.com/itod/pegkit): 'Parsing Expression Grammar' toolkit for Cocoa/Objective-C
+- tree-sitter/[SwiftTreeSitter](https://github.com/tree-sitter/swift-tree-sitter): Swift API for the tree-sitter incremental parsing system
+- viktorstrate/[SwiftTreeSitter](https://github.com/viktorstrate/swift-tree-sitter): Swift bindings for the tree-sitter parsing library
+- [TextMarkupKit](https://github.com/bdewey/TextMarkupKit): Pure-Swift tools for understanding and editing text files with simple markup
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools
 
 ## Text Manipulation
 
-- [TextFormation](https://github.com/ChimeHQ/TextFormation)
+- [TextFormation](https://github.com/ChimeHQ/TextFormation): Rules system for live typing completions
 
 ## Storage
 
