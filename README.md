@@ -41,12 +41,12 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## TextKit Utilities
 
-- [Glyph](https://github.com/ChimeHQ/Glyph)
-- [Ligature](https://github.com/ChimeHQ/Ligature)
-- [Rearrange](https://github.com/ChimeHQ/Rearrange)
-- [STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus)
-- [TextViewBenchmark](https://github.com/ChimeHQ/TextViewBenchmark)
-- [TextViewPlus](https://github.com/ChimeHQ/TextViewPlus)
+- [Glyph](https://github.com/ChimeHQ/Glyph): Abstractions for working with TextKit 1 and 2
+- [Ligature](https://github.com/ChimeHQ/Ligature): Text selection, grouping, and manipulation in Swift
+- [Rearrange](https://github.com/ChimeHQ/Rearrange): Swift library for working with ranges types: NSRange, IndexSet, and String.Index
+- [STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus): Collection of useful TextKit 2 helpers
+- [TextViewBenchmark](https://github.com/ChimeHQ/TextViewBenchmark): A suite of performance tests for macOS text views
+- [TextViewPlus](https://github.com/ChimeHQ/TextViewPlus): Make life better with NSTextView+TextKit 1/2
 
 ## Editing UI
 
