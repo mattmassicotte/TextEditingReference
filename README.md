@@ -58,6 +58,7 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Parsing
 
+- [Citron](https://github.com/roop/citron): An LALR Parser Generator for Swift
 - [Flexer](https://github.com/ChimeHQ/Flexer): Lexing library for Swift
 - [Gramophone](https://github.com/ChimeHQ/Gramophone): Swift library for working with Extended Backus–Naur Form (EBNF) notation and grammars
 - [ParseKit](https://github.com/itod/parsekit): Objective-C Tokenizer and Parser Generator. Supports Grammars.
