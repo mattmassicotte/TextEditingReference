@@ -6,26 +6,26 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 ## Views
 
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) (iOS/macOS/visionOS, SPM)
-- [CodeEditor](https://github.com/ZeeZide/CodeEditor) (iOS/macOS/visionOS, SPM/CocoaPods)
 - [CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) (macOS, SPM)
 - [Lexical](https://github.com/facebook/lexical-ios) (iOS, SPM)
 - [MarkupEditor](https://github.com/stevengharris/MarkupEditor) (iOS/macCatalyst, SPM)
 - [MetaTextKit](https://github.com/TwidereProject/MetaTextKit) (iOS, SPM)
-- [Proton](https://github.com/rajdeep/proton) (iOS/visionOS, SPM)
-- [RichEditorSwiftUI](https://github.com/canopas/rich-editor-swiftui) (macOSiOS/macOS/tvOS/watchOS/visionOS, SPM/CocoaPods)
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit) (iOS/macOS/tvOS/watchOS/visionOS, SPM)
-- [Runestone](https://github.com/simonbs/Runestone) (iOS, SPM)
+- [Runestone](https://github.com/simonbs/Runestone) (iOS/visionOS, SPM)
 - [SourceView](https://github.com/ChimeHQ/SourceView) (macOS, SPM)
-- [STTextView](https://github.com/krzyzanowskim/STTextView) (macOS, SPM)
+- [STTextView](https://github.com/krzyzanowskim/STTextView) (macOS/iOS, SPM)
 
 ### Last Update > 6 Months
 
 - [AztecEditor](https://github.com/wordpress-mobile/AztecEditor-iOS) (iOS, CocoaPods)
+- [CodeEditor](https://github.com/ZeeZide/CodeEditor) (iOS/macOS/visionOS, SPM/CocoaPods)
 - [CYRTextView](https://github.com/illyabusigin/CYRTextView) (iOS, CocoaPods)
 - [Editor](https://github.com/mmackh/Editor) (macOS/iOS)
 - [Firefly](https://github.com/ActuallyTaylor/Firefly) (iOS, SPM)
 - [NLTextView](https://github.com/srijs/NLTextView) (macOS)
 - [NTYSmartTextView](https://github.com/naoty/NTYSmartTextView) (macOS)
+- [Proton](https://github.com/rajdeep/proton) (iOS/visionOS, SPM)
+- [RichEditorSwiftUI](https://github.com/canopas/rich-editor-swiftui) (macOSiOS/macOS/tvOS/watchOS/visionOS, SPM/CocoaPods)
 - [Sourceful](https://github.com/twostraws/Sourceful) (iOS/macOS, SPM/CocoaPods)
 - [TextKit_LineNumbers](https://github.com/alldritt/TextKit_LineNumbers) (iOS)
 - [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) (iOS, SPM)
@@ -74,16 +74,16 @@ This exists to try to encourage collaboration, reduce redundant work, and genera
 
 ## Storage
 
-- [RelativeCollections](https://github.com/ChimeHQ/RelativeCollections)
-- [TextStory](https://github.com/ChimeHQ/TextStory)
+- [RelativeCollections](https://github.com/ChimeHQ/RelativeCollections): Swift collection types that support efficient storage of order-relative values
+- [TextStory](https://github.com/ChimeHQ/TextStory): Happier, more flexible NSTextStorage
 
 ## Syntax Highlighting
 
-- [Highlightr](https://github.com/raspu/Highlightr)
-- [HighlightSwift](https://github.com/appstefan/HighlightSwift)
-- [Neon](https://github.com/ChimeHQ/Neon)
-- [Splash](https://github.com/JohnSundell/Splash)
-- [ThemePark](https://github.com/ChimeHQ/ThemePark)
+- [Highlightr](https://github.com/raspu/Highlightr): iOS & OSX Syntax Highlighter.
+- [HighlightSwift](https://github.com/appstefan/HighlightSwift): Code syntax highlighting in Swift and SwiftUI
+- [Neon](https://github.com/ChimeHQ/Neon): A Swift library for efficient, flexible content-based text styling
+- [Splash](https://github.com/JohnSundell/Splash): A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
+- [ThemePark](https://github.com/ChimeHQ/ThemePark): A Swift library for working with syntax highlighting/IDE themes
 
 ## Search
 
